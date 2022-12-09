@@ -3,15 +3,16 @@
 BILIBILI-HELPER
 </h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/JunzhouLiu/BILIBILI-HELPER?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/JunzhouLiu/BILIBILI-HELPER?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER/network)
-[![GitHub issues](https://img.shields.io/github/issues/JunzhouLiu/BILIBILI-HELPER?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER/issues)
-[![GitHub license](https://img.shields.io/github/license/JunzhouLiu/BILIBILI-HELPER?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER/blob/main/LICENSE)
-[![GitHub All Releases](https://img.shields.io/github/downloads/JunzhouLiu/BILIBILI-HELPER/total?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER/releases)
+[![GitHub stars](https://img.shields.io/github/stars/1299172402/Actions-BILIBILI-HELPER?style=flat-square)](https://github.com/1299172402/Actions-BILIBILI-HELPER/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/1299172402/Actions-BILIBILI-HELPER?style=flat-square)](https://github.com/1299172402/Actions-BILIBILI-HELPER/network)
+[![GitHub issues](https://img.shields.io/github/issues/1299172402/Actions-BILIBILI-HELPER?style=flat-square)](https://github.com/1299172402/Actions-BILIBILI-HELPER/issues)
+[![GitHub license](https://img.shields.io/github/license/1299172402/Actions-BILIBILI-HELPER?style=flat-square)](https://github.com/1299172402/Actions-BILIBILI-HELPER/blob/main/LICENSE)
 [![Docker Pulls](https://img.shields.io/docker/pulls/superng6/bilibili-helper?style=flat-square)](https://hub.docker.com/r/superng6/bilibili-helper)
-[![GitHub contributors](https://img.shields.io/github/contributors/JunzhouLiu/BILIBILI-HELPER?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER/graphs/contributors)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/JunzhouLiu/BILIBILI-HELPER?style=flat-square)
+[![GitHub contributors](https://img.shields.io/github/contributors/1299172402/Actions-BILIBILI-HELPER?style=flat-square)](https://github.com/1299172402/Actions-BILIBILI-HELPER/graphs/contributors)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER.svg?type=flat-square)](https://app.fossa.com/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER?ref=badge_shield)
+
+<!--[![GitHub All Releases](https://img.shields.io/github/downloads/1299172402/Actions-BILIBILI-HELPER/total?style=flat-square)](https://github.com/J1299172402/Actions-BILIBILI-HELPER/releases)-->
+<!--![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/1299172402/Actions-BILIBILI-HELPER?style=flat-square)-->
 
 </div>
 
@@ -314,6 +315,8 @@ _特别注意：需要先与机器人之间创建会话，机器人才能下发�
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER?ref=badge_large)
 
+<!--
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/JunzhouLiu/BILIBILI-HELPER.svg)](https://starchart.cc/JunzhouLiu/BILIBILI-HELPER)
+[![Stargazers over time](https://starchart.cc/1299172402/Actions-BILIBILI-HELPER.svg)](https://starchart.cc/1299172402/Actions-BILIBILI-HELPER)
+-->
